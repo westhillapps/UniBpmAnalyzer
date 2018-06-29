@@ -1,7 +1,9 @@
 UniBpmAnalyzer
 ======
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://opensource.org/licenses/mit-license.php)
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/mit-license.php)
+[![GitHub Stars](https://img.shields.io/github/stars/WestHillApps/UniBpmAnalyzer.svg)](https://github.com/WestHillApps/UniBpmAnalyzer/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/WestHillApps/UniBpmAnalyzer.svg)](https://github.com/WestHillApps/UniBpmAnalyzer/network)
 
 BPM analyzer for Unity.  
 
@@ -36,7 +38,7 @@ src="https://raw.githubusercontent.com/WestHillApps/westhillapps.github.io/maste
 
 License
 -------
-The MIT License (MIT)
+MIT License
 
 Copyright (c) 2016 WestHillApps (Hironari Nishioka)
 
